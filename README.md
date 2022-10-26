@@ -29,7 +29,7 @@ Check out [API LIVE DEMO](https://travelbug-backend.tekmagar1.repl.co/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/Travel-Bug-Techis2022/Travel-Bug-GD.git
+git clone https://github.com/tekmagar/TravelBug
 ```
 
 2. Backend setting
